@@ -40,3 +40,5 @@ let outputTemprature = inputTemprature.map((x) => {
   return (x * 9 / 5) + 32;
 });
 console.log(outputTemprature);
+
+// ............................................................
